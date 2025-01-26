@@ -1,1 +1,2 @@
 Hello world. am learning git and git github
+We doing it
